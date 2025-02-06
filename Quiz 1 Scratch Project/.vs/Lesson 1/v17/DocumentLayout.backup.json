@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP1_Assignments\\SADIO_Assignment 2 - Linear Transformation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD4153F-A238-4F23-86A3-B4052F953E20}|Lesson 1.vcxproj|C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP1_Assignments\\SADIO_Assignment 2 - Linear Transformation\\Lesson 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AD4153F-A238-4F23-86A3-B4052F953E20}|Lesson 1.vcxproj|solutionrelative:Lesson 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD4153F-A238-4F23-86A3-B4052F953E20}|Lesson 1.vcxproj|C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP1_Assignments\\SADIO_Assignment 2 - Linear Transformation\\Shaders\\Shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4AD4153F-A238-4F23-86A3-B4052F953E20}|Lesson 1.vcxproj|solutionrelative:Shaders\\Shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP\\GRAP1\\Lesson 1\\Code Archives\\Lesson 4 Orthographic.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson 4 Orthographic.txt",
+              "DocumentMoniker": "C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP\\GRAP1\\Lesson 1\\Code Archives\\Lesson 4 Orthographic.txt",
+              "RelativeDocumentMoniker": "..\\..\\GDGRAP\\GRAP1\\Lesson 1\\Code Archives\\Lesson 4 Orthographic.txt",
+              "ToolTip": "C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP\\GRAP1\\Lesson 1\\Code Archives\\Lesson 4 Orthographic.txt",
+              "RelativeToolTip": "..\\..\\GDGRAP\\GRAP1\\Lesson 1\\Code Archives\\Lesson 4 Orthographic.txt",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAQwBYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-30T02:19:32.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader.vert",
+              "DocumentMoniker": "C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP1_Assignments\\SADIO_Assignment 2 - Linear Transformation\\Shaders\\Shader.vert",
+              "RelativeDocumentMoniker": "Shaders\\Shader.vert",
+              "ToolTip": "C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP1_Assignments\\SADIO_Assignment 2 - Linear Transformation\\Shaders\\Shader.vert",
+              "RelativeToolTip": "Shaders\\Shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T02:00:50.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson 1.cpp",
+              "DocumentMoniker": "C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP1_Assignments\\SADIO_Assignment 2 - Linear Transformation\\Lesson 1.cpp",
+              "RelativeDocumentMoniker": "Lesson 1.cpp",
+              "ToolTip": "C:\\Users\\Megan\\Documents\\GitHub\\GDGRAP1_Assignments\\SADIO_Assignment 2 - Linear Transformation\\Lesson 1.cpp",
+              "RelativeToolTip": "Lesson 1.cpp",
+              "ViewState": "AgIAALIAAAAAAAAAAAAmwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T01:57:47.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
