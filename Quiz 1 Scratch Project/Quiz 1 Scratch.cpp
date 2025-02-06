@@ -1,12 +1,3 @@
-/*
-    Assignment 02 - Linear Transformations
-
-    Created by: SADIO (GDGRAP1-S22)
-    Latest revision: January 30, 2025, 5:20 PM
-
-    Submitted on: January 30, 2025
-*/
-
 #include <iostream>
 #include <string>
 #include <glad/glad.h>
